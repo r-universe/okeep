@@ -5,3 +5,6 @@
 [submodule "Omisc"]
 	path = Omisc
 	url = https://github.com/cran/Omisc
+[submodule "ParallelTree"]
+	path = ParallelTree
+	url = https://github.com/cran/ParallelTree
